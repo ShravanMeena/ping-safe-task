@@ -1,3 +1,3 @@
-<!-- App ANDROID             |  App IOS
+
 :-------------------------:|:-------------------------:
-![](https://www.diawi.com/qrcode/link/ErVTv8)  |  ![](https://www.diawi.com/qrcode/link/mkJf3x) -->
+![](https://github.com/ShravanMeena/ping-safe-task/blob/main/src/assets/1.png?raw=true)  |  ![](https://github.com/ShravanMeena/ping-safe-task/blob/main/src/assets/2.png?raw=true)
