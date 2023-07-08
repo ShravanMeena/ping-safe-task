@@ -2,3 +2,6 @@
 
 
 ![](https://github.com/ShravanMeena/ping-safe-task/blob/main/src/assets/2.png?raw=true)
+
+
+![](https://github.com/ShravanMeena/ping-safe-task/blob/main/src/assets/3.png?raw=true)
