@@ -24,6 +24,9 @@ To run this application, you need to have the following software installed on yo
 
 - Node.js (version v18.15.0)
 
+### Live Preview
+- [https://pingsafe01.netlify.app/](https://pingsafe01.netlify.app/)
+
 ### Setup
 
 - download or clone the [repository](https://github.com/ShravanMeena/ping-safe-task.git)
