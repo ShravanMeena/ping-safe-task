@@ -16,10 +16,6 @@ Checking a folder should select all its files, including all the nested files an
 - There should be a visual distinction between files and folders.
 - There should be a visual distinction between folders of each nesting level.
 
-## Design
-
-You can find the design files at the following link: [Designs](https://cdn.dribbble.com/users/9769475/screenshots/19575729/media/7dc0cb142b52420d73f62913bb9d1bc7.jpg)
-
 ## Getting Started
 
 ### Prerequisites
